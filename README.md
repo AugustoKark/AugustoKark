@@ -9,4 +9,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustokark&layout=compact&theme=transparent"/> 
 </div>
 
-![Snake animation](https:/github.com/augustokark/augustokark/blob/output/github-contribution-grid-nake.svg)
+![snake gif](https://github.com/AugustoKark/AugustoKark/blob/output/github-contribution-grid-snake.gif)
